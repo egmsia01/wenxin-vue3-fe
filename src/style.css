@@ -1,0 +1,18 @@
+#app,
+body,
+html {
+  height: 100%;
+  font-size: 14px;
+}
+
+body {
+  font-family: Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei,
+    '\5FAE\8F6F\96C5\9ED1', Arial, sans-serif;
+  line-height: 1.5;
+  color: #515a6e;
+  font-size: 14px;
+  background-color: #F5F6FA;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+}
